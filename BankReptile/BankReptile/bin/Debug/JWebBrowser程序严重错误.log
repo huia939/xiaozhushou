@@ -1,0 +1,20 @@
+时间 2019/12/22 0:21:02:错误源:WindowsForms001
+[2019/12/22 0:21:02:234]->Error Message:未将对象引用设置到对象的实例。,Error Stack:   在 WindowsForms001.FWebBrowser.UpdateJsonData() 位置 D:\2019软件开发资源\抓取数据\BankReptile\WindowsForms001\FWebBrowser.cs:行号 157
+   在 WindowsForms001.FWebBrowser.BtnUpadteDate_Click(Object sender, EventArgs e) 位置 D:\2019软件开发资源\抓取数据\BankReptile\WindowsForms001\FWebBrowser.cs:行号 67
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+时间 2019/12/22 0:21:02:   在 WindowsForms001.FWebBrowser.UpdateJsonData() 位置 D:\2019软件开发资源\抓取数据\BankReptile\WindowsForms001\FWebBrowser.cs:行号 157
+   在 WindowsForms001.FWebBrowser.BtnUpadteDate_Click(Object sender, EventArgs e) 位置 D:\2019软件开发资源\抓取数据\BankReptile\WindowsForms001\FWebBrowser.cs:行号 67
+   在 System.Windows.Forms.Control.OnClick(EventArgs e)
+   在 System.Windows.Forms.Button.OnMouseUp(MouseEventArgs mevent)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ButtonBase.WndProc(Message& m)
+   在 System.Windows.Forms.Button.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

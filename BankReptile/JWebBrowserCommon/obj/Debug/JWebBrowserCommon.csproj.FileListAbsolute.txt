@@ -1,0 +1,6 @@
+D:\Source\RefResource\JWebBrowserCommon\bin\Debug\JWebBrowserCommon.dll
+D:\Source\RefResource\JWebBrowserCommon\bin\Debug\JWebBrowserCommon.pdb
+D:\Source\RefResource\JWebBrowserCommon\obj\Debug\JWebBrowserCommon.csprojAssemblyReference.cache
+D:\Source\RefResource\JWebBrowserCommon\obj\Debug\JWebBrowserCommon.csproj.CoreCompileInputs.cache
+D:\Source\RefResource\JWebBrowserCommon\obj\Debug\JWebBrowserCommon.dll
+D:\Source\RefResource\JWebBrowserCommon\obj\Debug\JWebBrowserCommon.pdb
